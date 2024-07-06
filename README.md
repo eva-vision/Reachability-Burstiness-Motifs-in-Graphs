@@ -3,7 +3,7 @@ There is a datafile attached to this exercise which can also be found at its sou
 
 https://snap.stanford.edu/data/email-Eu-core-temporal.html
 
-This is a temporal data, the file has three columns separated by space, the first is the id of the sender, the second is the id of the receiver, the third is a timestamp. All exercises involve recreating graphs from lecture 6, and I will refer to slide numbers of the uploaded pdf.
+This is a temporal data, the file has three columns separated by space, the first is the id of the sender, the second is the id of the receiver, the third is a timestamp. 
 
 ## 1. Reachability
 
